@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature id="com.genentech.knime.feature">
+      <category name="genentech"/>
+   </feature>
+   <category-def name="genentech" label="genentech nodes">
+      <description>
+	  Genentech nodes for KNIME
+      </description>
+   </category-def>
+</site>

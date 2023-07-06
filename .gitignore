@@ -1,2 +1,4 @@
 repCPComms*.csh
 repCPSkip.oss.txt
+target/
+.polyglot.*	
