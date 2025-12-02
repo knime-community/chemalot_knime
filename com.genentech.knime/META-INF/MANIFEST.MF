@@ -52,5 +52,5 @@ Export-Package: com.genentech.knime;
    org.knime.core.node.property.hilite,
    com.jcraft.jsch,
    javax.swing"
-Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-RequiredExecutionEnvironment: JavaSE-21
 
